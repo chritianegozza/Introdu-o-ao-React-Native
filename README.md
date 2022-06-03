@@ -8,6 +8,14 @@
 
 
 
+
+Imagem do VScode e do terminal do emulador 
+
+![9ad1d2fa-703a-4bfb-a642-52516274acc0](https://user-images.githubusercontent.com/72118415/171869128-b23d2ff0-42bf-40e6-b7f4-8b24111eb8ae.jpg)
+
+
+
+
 ********************************************************************************************************
 Projeto
 
