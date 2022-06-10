@@ -50,8 +50,10 @@ projeto para treinar o conteúdo aprendido nas aulas do bootcamp
 
 
 **************************************************************************************************
-Linguagem
+🧩 Linguagem
 
+
+React native 
 
 **************************************************************************************************
 Caso tenha alguma duvida entrar em contato comigo
