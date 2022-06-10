@@ -3,6 +3,9 @@
 
 
 
+
+
+
 ![image](https://user-images.githubusercontent.com/72118415/171860961-f3923393-b6dd-4379-9617-c87d98bb85cd.png)
 
 
@@ -17,7 +20,7 @@ Imagem do VScode e do terminal do emulador
 
 
 ********************************************************************************************************
-Projeto
+🚀 Projeto
 
 Projeto faz parte do bootcamp da DIO Decolar Tech, onde aprendemos o react native e fizemos esse 
 projeto para treinar o conteúdo aprendido nas aulas do bootcamp
