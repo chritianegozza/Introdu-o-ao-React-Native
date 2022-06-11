@@ -56,7 +56,7 @@ projeto para treinar o conteúdo aprendido nas aulas do bootcamp
 React native 
 
 **************************************************************************************************
-Caso tenha alguma duvida entrar em contato comigo
+💌 Caso tenha alguma duvida entrar em contato comigo
 
 ************************************************************************************************
 Projeto original do professor, para ver como funcionar [aqui](https://github.com/ismaelsousa/dioRN/blob/master/src/App.js)
